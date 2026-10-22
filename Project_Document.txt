@@ -1,0 +1,74 @@
+Student Performance Analytics System
+
+1. Project Title
+
+Student Performance Analytics System
+
+Student Name: [Kusumanchi Veera Venkata Siva Sai Ganesh]
+
+2. Objective
+
+The objective of this project is to analyze student academic performance using Python, NumPy and Pandas. It helps calculate marks, identify top-performing students and understand subject-wise performance.
+
+3. Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+
+4. Dataset Description
+
+The dataset contains student records with the following columns:
+
+- Student_ID
+- Name
+- Department
+- Python
+- Maths
+- AI
+- Attendence
+
+The dataset contains 15 student records.
+
+5. Implementation
+
+1. Created a CSV file containing student details and marks.
+2. Loaded the dataset using Pandas.
+3. Displayed dataset information and statistical summary.
+4. Checked missing values.
+5. Calculated total marks and average marks.
+6. Assigned grades and pass/fail results using conditions.
+7. Identified highest and lowest performers.
+8. Calculated subject-wise averages.
+9. Displayed top-performing students.
+10. Generated a subject-wise average graph using Matplotlib.
+11. Saved processed results to a CSV file.
+
+6. Key Features
+
+- Student dataset analysis
+- Total and average marks calculation
+- Grade assignment
+- Pass/fail identification
+- Highest and lowest performance analysis
+- Subject-wise average analysis
+- Top student identification
+- Graph generation
+- CSV export
+
+7. Output
+
+Screenshots of the program output and subject-wise average graph will be added here.
+
+8. Final Outcome
+
+The project processes student data and presents useful academic performance information, including averages, grades, pass/fail results and subject-wise performance.
+
+9. Challenges & Learning
+
+I learned how to read CSV files, work with Pandas DataFrames, perform numerical calculations using NumPy, write conditional statements and generate graphs.
+
+10. GitHub Repository
+
+Repository URL: [Add your GitHub link after uploading the project]
